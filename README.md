@@ -25,5 +25,5 @@ node index
 These builder files will be used in a larger poker app within other repos.
 
 ## Join The Community
-SUBSCRIBE to our [YouTube channel](https://www.youtube.com/channel/UC2bA9VkiR2UV3m4sQ-wwOWg)!
-JOIN our [Discord community](https://discord.gg/Q7BbYEeASE)!
+- SUBSCRIBE to our [YouTube channel](https://www.youtube.com/channel/UC2bA9VkiR2UV3m4sQ-wwOWg)!
+- JOIN our [Discord community](https://discord.gg/Q7BbYEeASE)!
