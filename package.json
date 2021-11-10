@@ -1,5 +1,5 @@
 {
-  "name": "poker-hand-builder",
+  "name": "1.1-poker-hand-builder",
   "version": "1.0.0",
   "description": "Builds and checks poker hands.",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/classydevclass/poker-hand-builder.git"
+    "url": "git+https://github.com/classydevclass/1.1-poker-hand-builder.git"
   },
   "author": "The Classy Dev Class",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/classydevclass/poker-hand-builder/issues"
+    "url": "https://github.com/classydevclass/1.1-poker-hand-builder/issues"
   },
-  "homepage": "https://github.com/classydevclass/poker-hand-builder#readme"
+  "homepage": "https://github.com/classydevclass/1.1-poker-hand-builder#readme"
 }
